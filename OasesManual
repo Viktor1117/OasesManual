@@ -34,6 +34,4 @@ cd /bin
 git clone --recursive https://github.com/dzerbino/oases
 cd oases
 make
-./oases --version
-0.2.09
 
